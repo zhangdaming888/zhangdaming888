@@ -1,0 +1,38 @@
+.bg{background:url("../img/bg.jpg")/*tpa=http://www.hdyxz.com/img/bg.jpg*/no-repeat center center;background-size: 100% 100%;width:100%;height:100%;position:fixed;top:0;left:0;}
+html,body{width:100%;height:100%;overflow: hidden;}
+*{padding:0;margin:0;font-family:"微软雅黑"}
+.down{
+    width: 800px;
+    height: 300px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-top: -246px;
+    margin-left: -400px;
+}
+.down h3{
+    font-size: 45px;
+    color: #FFF;
+    text-align: center;
+}
+.down p{
+    height: 80px;
+    line-height: 40px;
+    margin-top: 22px;
+    text-align: center;
+    color: #FFF;
+    font-size: 18px;
+}
+.down a{
+    display: block;
+    width: 150px;
+    height: 55px;
+    line-height: 55px;
+    font-size: 20px;
+    color: #FFF;
+    border: 1px solid #FFf;
+    border-radius: 5px;
+    text-align: center;
+    margin: 0px auto;
+    margin-top: 30px;
+}
